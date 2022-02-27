@@ -47,7 +47,7 @@ Twilio -  [twilio.com/](https://www.twilio.com/)
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone "Link of the project"
 ```
 
 Go to the project directory
