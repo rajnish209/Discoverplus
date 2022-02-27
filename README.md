@@ -109,12 +109,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [Vishal Sudam Patil](https://github.com/vishalpatil12014017)
-
-- [Rahul Kumar Yadav](https://github.com/rahulyadav96)
-
-- [Deepak Chaurasia](https://github.com/deepak-chaurasiyaa)
-
+- [Rajnish kumar](https://github.com/rajnish209)
 - [Utkarsh Kumar](https://github.com/Utkarsh4970)
 
 
@@ -157,4 +152,4 @@ To run this project, you will need to add the following environment variables to
 
 
 
-- GITHUB - https://github.com/Utkarsh4970/Discoveryplus.in
+- GITHUB - https://github.com/rajnish209/Discoverplus
